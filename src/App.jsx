@@ -24,7 +24,7 @@ function App() {
         <Route path="/toc" Component={TOCPage} /> 
       </Routes>
        
-      <FooterComponent /> 
+    { /* <FooterComponent />  */ }
     </div>
   )
 } 
